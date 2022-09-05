@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Member To Class: ClassName=Sheet2 Member=Component P2 Header 4
